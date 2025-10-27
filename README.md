@@ -10,6 +10,7 @@ It simulates how humans perceive spatial sound through headphones — placing vo
 - 🎚️ **Dynamic Spatialization** — 3D positioning of individual stems using HRTF convolution.  
 - 🧠 **SOFA Support** — Load standardized or personalized HRTF datasets (`.sofa` format).  
 - 🎵 **Multi-Stem Compatibility** — Works seamlessly with source-separated stems (e.g., Spleeter).  
+
 - 🌀 **Gain-Adaptive Mapping** — Adjusts spatial intensity dynamically based on loudness or energy.  
 - ⚙️ **Fully Software-Based** — No specialized DSP hardware required.  
 - 🎧 **Binaural Output** — Produces immersive stereo `.wav` files playable on any headphones.  
@@ -66,3 +67,5 @@ It simulates how humans perceive spatial sound through headphones — placing vo
   ```bash
   pip install numpy scipy soundfile librosa matplotlib pysofaconventions spleeter
 ## ╰(*°▽°*)╯  OUTPUT 
+
+[immersive_mix_cropped.wav](https://github.com/user-attachments/files/23170513/immersive_mix_cropped.wav)
