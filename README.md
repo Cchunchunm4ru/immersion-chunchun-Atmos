@@ -19,7 +19,8 @@ It simulates how humans perceive spatial sound through headphones — placing vo
 ## 🧩 System Architecture
         +------------------------+
         |   Input Audio (.wav)   |
-        +-----------+------------+
+        +-----------+------------+[immersive_mix_cropped.wav](https://github.com/user-attachments/files/23170486/immersive_mix_cropped.wav)
+
                     |
                     v
           +------------------+
@@ -64,3 +65,4 @@ It simulates how humans perceive spatial sound through headphones — placing vo
 - Libraries:
   ```bash
   pip install numpy scipy soundfile librosa matplotlib pysofaconventions spleeter
+## ╰(*°▽°*)╯  OUTPUT 
